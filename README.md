@@ -36,20 +36,18 @@
         <h3>
             <i>Projects using React</i>
         </h3>
-        <div style='display: flex'>
         <figure>
             <img width = '20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             <a href="https://react-entrega-s1-nu-kenzie-kamilla-caliman.vercel.app/">Nukenzie</a>
-        </figure>
+        </figure><br>
         <figure>
             <img width = '20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             <a href="https://react-entrega-s1-hamburgueria-da-kenzie-kamilla-caliman.vercel.app/">Hamburgueria (Com consumo de API)</a>
-        </figure>
+        </figure><br>
         <figure>
             <img width = '20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             <a href="https://react-entrega-s2-formulario-de-cadastro-kamilla-caliman.vercel.app/">Kenzie Hub (Com consumo de API + Typescript)</a>
         </figure>
-        </div>
     </div>
     <hr>
     <div>
