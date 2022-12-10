@@ -38,6 +38,10 @@
         </h3>
         <figure>
             <img width = '20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            <a href="https://astroverso-git-main-astroverso.vercel.app/">Astroverse</a>
+        </figure><br>
+        <figure>
+            <img width = '20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             <a href="https://react-entrega-s1-nu-kenzie-kamilla-caliman.vercel.app/">Nukenzie</a>
         </figure><br>
         <figure>
