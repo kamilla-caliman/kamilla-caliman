@@ -28,6 +28,9 @@
             <img width = '60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
             <img width = '62' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
             <img width = '60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+            <img width = '60' src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-original.svg" />
+            <img width = '60' src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nodejs/nodejs-plain-wordmark.svg" />
+            <img width = '60' src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/figma/figma-original.svg" />
         </div>
     </div>
     <hr>
